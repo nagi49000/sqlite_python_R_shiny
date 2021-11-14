@@ -1,0 +1,13 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+cherrypy=18.2.0=py37_0
+flask=1.1.1=py_1
+pyparsing=2.4.2=py_0
+pytest=5.2.2=py37_0
+python=3.7.3
+sqlalchemy=1.3.10
+r-shiny=1.1.0
+r-httr=1.3.1
+r-xml2=1.2.0
+psycopg2=2.8.4
