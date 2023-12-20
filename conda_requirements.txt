@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
 cherrypy=18.2.0=py37_0
-flask=1.1.1=py_1
+flask=2.2.5
 pyparsing=2.4.2=py_0
 pytest=5.2.2=py37_0
 python=3.7.3
